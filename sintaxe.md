@@ -41,7 +41,31 @@ ou
 ?> 
 ````
 
-### ChangeLog
+## Comentários
+
+O PHP suporta comentários no estilo 'C', 'C++' e do Unix shell (estilo Perl), exemplo:
+
+````
+<?php
+
+// USADO PARA UMA LINHA DE COMENTÁRIO ÚNICO
+// DEVE SER REPETIDO PARA LINHAS MÚLTIPLAS ...
+
+# OUTRA OPÇÃO 
+# LINHA
+# POR
+# LINHA
+
+/* USADO PARA BLOCOS DE CÓDIGO. */
+
+/**
+ * Usado PARA BLOCOS DE COMENTÁRIOS MAIS DETALHADOS.
+ */
+
+
+````
+
+## ChangeLog
 
 |Versão	|Descrição                                                                                  |
 |-------|-------------------------------------------------------------------------------------------|
