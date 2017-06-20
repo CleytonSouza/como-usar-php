@@ -2,7 +2,7 @@
 Estudos e Pesquisas baseados no conteúdo requerido na [ZCE](http://www.zend.com/en/services/certification/php-certification) 
 
 ## Básico
-- [ ] Sintaxe
+- [x] [Sintaxe](sintaxe.md)
 - [ ] Operadores
 - [ ] Variáveis
 - [ ] Estrutura de Controle
